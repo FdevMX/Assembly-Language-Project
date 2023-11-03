@@ -1,3 +1,10 @@
+# Elaborar diagrama de flujo y programa en ensamblador usando macros que presente 3 opciones:
+#       Opción 1 Calcular factorial de un número
+#       Opción 2. La serie de fibonacci
+#       Opción 3. Salir.
+# Al inicio debe solicitar los números a calcular.
+
+
 #MENU GENERAL DE LAS DOS OPERACIONES
 def factorial(num):
     if num < 0:
