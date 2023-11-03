@@ -1,3 +1,5 @@
+![Header](./[https://github.com/FreddMX/resources/blob/9f68afc416c4d9033ef3f94b1d0f13d56d87b6a6/headers/AI3.S1.Ensamblador.png])
+
 # **Lenguaje Ensamblador y Programación Estructurada**
 
 Bienvenido al repositorio de práctica en lenguaje ensamblador, donde explorarás diferentes implementaciones de dos programas clásicos y su equivalente en Python. **Este proyecto te llevará a través del cálculo del factorial de un número, la serie de Fibonacci y te permitirá elegir entre estas opciones desde un menú principal**.
