@@ -8,15 +8,15 @@ El repositorio está organizado en tres secciones:
 
 ### Assembler
 
-En la carpeta [`"assembler"`](https://github.com/FreddMX/University_Code/tree/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/assembler), encontrarás todo el código fuente escrito en ensamblador. Esto incluye el archivo de macros y el archivo principal necesario para la ejecución, que se llama [`PROGRAM6.ASM`](https://github.com/FreddMX/University_Code/blob/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/assembler/PROGRAM6.ASM) y el archivo [`MACROSP6.ASM`](https://github.com/FreddMX/University_Code/blob/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/assembler/MACROSP6.ASM).
+En la carpeta [`"assembler"`](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/d87bb88100670980cae23b8fe54a3f375c241488/assembler), encontrarás todo el código fuente escrito en ensamblador. Esto incluye el archivo de macros y el archivo principal necesario para la ejecución, que se llama [`PROGRAM6.ASM`](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/assembler/PROGRAM6.ASM) y el archivo [`MACROSP6.ASM`](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/assembler/MACROSP6.ASM).
 
 ### Flowchart
 
-La carpeta [`"flowchart"`](https://github.com/FreddMX/University_Code/tree/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/flowchart) contiene pseudocódigos y diagramas de flujo creados con PSeInt. El archivo principal, [`menu.psc`](https://github.com/FreddMX/University_Code/blob/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/flowchart/menu.psc), te permitirá visualizar el menú con las dos opciones de programas. Si no deseas instalar PSeInt, también hemos proporcionado imágenes de los diagramas de flujo en la carpeta [`"flowchart image"`](https://github.com/FreddMX/University_Code/tree/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/flowchart/flowchart%20image).
+La carpeta [`"flowchart"`](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/d87bb88100670980cae23b8fe54a3f375c241488/flowchart) contiene pseudocódigos y diagramas de flujo creados con PSeInt. El archivo principal, [`menu.psc`](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/flowchart/menu.psc), te permitirá visualizar el menú con las dos opciones de programas. Si no deseas instalar PSeInt, también hemos proporcionado imágenes de los diagramas de flujo en la carpeta [`"flowchart image"`](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/d87bb88100670980cae23b8fe54a3f375c241488/flowchart/flowchart%20image).
 
 ### Python
 
-En la carpeta [`"python"`](https://github.com/FreddMX/University_Code/tree/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/python), encontrarás implementaciones en Python de los mismos programas. Hemos proporcionado tres archivos: uno para calcular el factorial de un número, otro para generar la serie de Fibonacci y un archivo principal, [`main.py`](https://github.com/FreddMX/University_Code/blob/4797d1ea92632023a58035fb4501e16e538b3267/Arquitectura%20de%20Computadoras/EXA3P/python/main.py), que te permitirá seleccionar entre estas opciones de manera similar al programa en ensamblador.
+En la carpeta [`"python"`](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/d87bb88100670980cae23b8fe54a3f375c241488/python), encontrarás implementaciones en Python de los mismos programas. Hemos proporcionado tres archivos: uno para calcular el factorial de un número, otro para generar la serie de Fibonacci y un archivo principal, [`main.py`](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/python/main.py), que te permitirá seleccionar entre estas opciones de manera similar al programa en ensamblador.
 
 ## Ejecución en Assembler
 
@@ -44,27 +44,27 @@ Y en dado caso de que no dispongas de una computadora para ejecutar estos codigo
 
 - :ballot_box_with_check: *Los archivos de Python han sido creados de manera recursiva y no requieren módulos adicionales.*
 
-- :negative_squared_cross_mark: *El programa desarrollado en ensamblador tiene un error que no se pudo resolver, y es que al momento del tercer ciclo las opciones se interponen con las opciones del segundo ciclo. Este error lo podras notar en la seccion de capturas de pantalla llamada [ERRORES](https://github.com/FreddMX/University_Code/tree/main/Arquitectura%20de%20Computadoras/EXA3P#errores).*
+- :negative_squared_cross_mark: *El programa desarrollado en ensamblador tiene un error que no se pudo resolver, y es que al momento del tercer ciclo las opciones se sobreponen con las opciones que se mostraron en el segundo ciclo. Este error lo podras notar en la seccion de capturas de pantalla llamada [ERRORES](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/main#errores).*
 
 ## Capturas de pantalla
 ### Ejecucion
-![](https://github.com/FreddMX/University_Code/blob/33693621ca01cd5d7900e55b97778ddc5a85d0c8/Arquitectura%20de%20Computadoras/EXA3P/screenshot/execute1.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/execute1.png)
 
-![](https://github.com/FreddMX/University_Code/blob/33693621ca01cd5d7900e55b97778ddc5a85d0c8/Arquitectura%20de%20Computadoras/EXA3P/screenshot/execute2.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/execute2.png)
 
-![](https://github.com/FreddMX/University_Code/blob/33693621ca01cd5d7900e55b97778ddc5a85d0c8/Arquitectura%20de%20Computadoras/EXA3P/screenshot/execute3.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/execute3.png)
 
 ### Macrollamadas
 
-![](https://github.com/FreddMX/University_Code/blob/33693621ca01cd5d7900e55b97778ddc5a85d0c8/Arquitectura%20de%20Computadoras/EXA3P/screenshot/code1.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/code1.png)
 
 ### Macros
 
-![](https://github.com/FreddMX/University_Code/blob/33693621ca01cd5d7900e55b97778ddc5a85d0c8/Arquitectura%20de%20Computadoras/EXA3P/screenshot/macro1.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/macro1.png)
 
 ### Errores
 
-![](https://github.com/FreddMX/University_Code/blob/33693621ca01cd5d7900e55b97778ddc5a85d0c8/Arquitectura%20de%20Computadoras/EXA3P/screenshot/error.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/error.png)
 
 
 ## Sitios de referencia
