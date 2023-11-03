@@ -2,7 +2,7 @@
 
 # **Lenguaje Ensamblador y Programación Estructurada**
 
-Bienvenido al repositorio de práctica en lenguaje ensamblador, donde explorarás diferentes implementaciones de dos programas clásicos y su equivalente en Python. **Este proyecto te llevará a través del cálculo del factorial de un número, la serie de Fibonacci y te permitirá elegir entre estas opciones desde un menú principal**.
+Bienvenido al repositorio de práctica en lenguaje ensamblador, donde explorarás diferentes implementaciones de dos programas clásicos elaborados en Lenguaje Ensamblador y su equivalente en Python. **Este proyecto te llevará a través del cálculo del factorial de un número, la serie de Fibonacci y te permitirá elegir entre estas opciones desde un menú principal**.
 
 ## **Contenido del Repositorio**
 
