@@ -1,4 +1,4 @@
-![Header](./[https://github.com/FreddMX/resources/blob/9f68afc416c4d9033ef3f94b1d0f13d56d87b6a6/headers/AI3.S1.Ensamblador.png])
+![Header](https://github.com/FreddMX/resources/blob/9f68afc416c4d9033ef3f94b1d0f13d56d87b6a6/headers/AI3.S1.Ensamblador.png)
 
 # **Lenguaje Ensamblador y Programación Estructurada**
 
