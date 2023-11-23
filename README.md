@@ -72,6 +72,7 @@ Y en dado caso de que no dispongas de una computadora para ejecutar estos codigo
 
 ### Errores
 
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/c218064e51726d1c101e55ebb2e720de3a54a529/screenshot/error.png)
 
 ## Sitios de referencia
 
