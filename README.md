@@ -39,39 +39,45 @@ Para ejecutar los archivos .py, asegúrate de tener Python instalado. Tambien po
 Y en dado caso de que no dispongas de una computadora para ejecutar estos codigos, te recomiendo estos dos compiladores que estan disponibles de manera online, asi no tendras problemas y podras ejecutarlo en tu telefono, tablet o PC.
 
 - **[Programiz](https://www.programiz.com/python-programming/online-compiler/)**
-
 - **[W3Schools](https://www.w3schools.com/python/python_compiler.asp)**
 
-##  Nota
+## Nota
 
-- :ballot_box_with_check: *Los archivos de Python han sido creados de manera recursiva y no requieren módulos adicionales.*
-
-- :negative_squared_cross_mark: *El programa desarrollado en ensamblador tiene un error que no se pudo resolver, y es que al momento del tercer ciclo las opciones se sobreponen con las opciones que se mostraron en el segundo ciclo. Este error lo podras notar en la seccion de capturas de pantalla llamada [ERRORES](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/main#errores).*
+- ☑️ *Los archivos de Python han sido creados de manera recursiva y no requieren módulos adicionales.*
+- ❎ *El programa desarrollado en ensamblador tiene un error que no se pudo resolver, y es que al momento de ejecutar la primera opcion durante varias veces, el menu se multiplica, ocasionando que se llene toda la pantalla, sin posibilidad de entender cual es la opcion que vamos a elegir .Este error lo podras notar en la seccion de capturas de pantalla llamada [ERRORES](https://github.com/FreddMX/AI3.S1.Ensamblador/tree/main#errores).*
 
 ## Capturas de pantalla
+
 ### Ejecucion
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/execute1.png)
 
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/execute2.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/execute1.png)
 
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/execute3.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/execute2.png)
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/execute3.png)
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/execute4.png)
 
 ### Macrollamadas
 
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/code1.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/code1.png)
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/code2.png)
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/code3.png)
 
 ### Macros
 
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/macro1.png)
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/macro1.png)
 
 ### Errores
 
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d87bb88100670980cae23b8fe54a3f375c241488/screenshot/error.png)
-
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/error.png)
 
 ## Sitios de referencia
->https://2k8618.blogspot.com/
 
->https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh
+[2k8618 blogspot](https://2k8618.blogspot.com/ "hola")
 
->https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ
+> https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh
+
+> https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ
