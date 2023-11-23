@@ -72,11 +72,10 @@ Y en dado caso de que no dispongas de una computadora para ejecutar estos codigo
 
 ### Errores
 
-![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/error.png)
 
 ## Sitios de referencia
 
-| [2k8618 My B.Tec](https://2k8618.blogspot.com/ "[2k8618 blogspot](https://2k8618.blogspot.com/ &quot;hola&quot;)")                                        |
+| [2k8618 My B.Tec](https://2k8618.blogspot.com/ "https://2k8618.blogspot.com/")                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | [MENÚ EN ASSEMBLER, OPERACIONES BÁSICAS](https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh "https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh") |
 | [MENU EN ASSEMBLER EMU8086](https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ "https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ")                |
