@@ -76,8 +76,7 @@ Y en dado caso de que no dispongas de una computadora para ejecutar estos codigo
 
 ## Sitios de referencia
 
-[2k8618 blogspot](https://2k8618.blogspot.com/ "hola")
-
-> https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh
-
-> https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ
+| [2k8618 My B.Tec](https://2k8618.blogspot.com/ "[2k8618 blogspot](https://2k8618.blogspot.com/ &quot;hola&quot;)")                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [MENÚ EN ASSEMBLER, OPERACIONES BÁSICAS](https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh "https://youtu.be/03MDiaX9eSw?si=ZAWLRCZ4cYjPMRHh") |
+| [MENU EN ASSEMBLER EMU8086](https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ "https://youtu.be/7pdDjor5eNs?si=K--iTxE6Zyv2a_XZ")                |
