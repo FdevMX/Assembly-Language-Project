@@ -66,9 +66,21 @@ Y en dado caso de que no dispongas de una computadora para ejecutar estos codigo
 
 ![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/code3.png)
 
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/code4.png)
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/code5.png)
+
 ### Macros
 
 ![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/d39fcb37bd6d30432d326663a714eb4b4d6677e7/screenshot/macro1.png)
+
+### Diagrama de Flujo
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/e91201762ea0d50e3ff9df6b4ef4d317bb6bd223/screenshot/diagrama%20de%20flujo.png)
+
+### Pseudocodigo
+
+![](https://github.com/FreddMX/AI3.S1.Ensamblador/blob/e91201762ea0d50e3ff9df6b4ef4d317bb6bd223/screenshot/pseudocodigo.png)
 
 ### Errores
 
